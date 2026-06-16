@@ -1,0 +1,6 @@
+{
+  "name": "TheFusionHub",
+  "description": "TheFusionHub — Where technology meets innovation. A premium, modern full-stack digital marketing and branding agency website featuring a self-contained content management system, portfolio filters, contact form inquiries, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
